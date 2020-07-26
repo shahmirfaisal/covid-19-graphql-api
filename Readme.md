@@ -14,6 +14,6 @@ Use GraphiQL to understand the API.
 
 ---
 
-If you liked it make sure to give a star.
+If you liked it then make sure to give a star.
 
 Happy Coding :)
